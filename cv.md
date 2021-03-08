@@ -17,6 +17,7 @@
   - GIT
   
 ### Softskills
+
   - Teamwork
   - Communication
   - Passion
